@@ -1,4 +1,4 @@
-# Project 3: Data Preprocessing & Exploratory Analysis
+# Project 3: EDA for Real Estate Pricing
 
 ## Step-by-Step Process
 
